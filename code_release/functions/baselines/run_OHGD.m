@@ -1,8 +1,7 @@
 function [hat_y_t] = run_OHGD(Y, X, id_list)
 %%
 %Code for Online Harmonizing Gradient Descent
-%The definition of GD_P/GD_N in code differs slightly from that in the original work, 
-%but the concept of harmonizing the gradient norm remains consistent.
+
 %--------------------------------------------------
 %INPUT: Y---1*N lables (-1, +1)
 %            X---T*d data matrix
