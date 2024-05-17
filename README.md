@@ -15,7 +15,7 @@ please cite:
 Update log (May, 2024)
 
 Thanks <tujiahangcc@nudt.edu.cn> for pointing out the mistake in our work, especially in the proof of Lemma.1.
-We will correct the it promptly.
+We will correct the mistake promptly.
 
 Despite the mistake in proof, our theoretical guarantee of sublinear regret for OHGD remains valid. 
 
