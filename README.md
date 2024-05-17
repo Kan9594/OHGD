@@ -12,9 +12,9 @@ please cite:
   year={2023}
 }
 
-Update log (May 2024)
+Update log (May, 2024)
 
-Thanks <tujiahangcc@nudt.edu.cn> for pointing out the mistake in our proof in Lemma.1.
+Thanks <tujiahangcc@nudt.edu.cn> for pointing out the mistake, especially the proof in Lemma.1.
 We will correct the proof promptly.
 
 Despite this error, our theoretical guarantee of sublinear regret for OHGD remains valid. 
