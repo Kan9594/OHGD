@@ -12,11 +12,12 @@ please cite:
   year={2023}
 }
 
-Update log (Aug., 2024)===================================================================
+Update log (Aug., 2024)================================================
+
 Thanks <tujiahangcc@nudt.edu.cn> for pointing out the mistake in our manuscript.
-We have correct this mistake. 
-Please refer to "Correction:Online Harmonizing Gradient Descent for Imbalanced Data Streams One-Pass Classification".
-Meanwhile, we have strengthen our proof for Lemma.1. Please refer to Appendix A.1 in supplementary material.
+We have corrected this mistake. 
+Please refer to "Correction-paper". The revised parts are highlighted in red.
+Meanwhile, we have strengthened our proof for Lemma.1. Please refer to Appendix A.1 in supplementary material.
 
 
 
