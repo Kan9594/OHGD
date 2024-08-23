@@ -12,11 +12,12 @@ please cite:
   year={2023}
 }
 
-Update log (May, 2024)
+Update log (Aug., 2024)
 
-Thanks <tujiahangcc@nudt.edu.cn> for pointing out the mistake in our work, especially in the proof of Lemma.1.
-We will correct the mistake promptly.
+Thanks <tujiahangcc@nudt.edu.cn> for pointing out the mistake in our manuscript.
+We have correct this mistake. 
+Please refer to "Correction:Online Harmonizing Gradient Descent for Imbalanced Data Streams One-Pass Classification".
+Meanwhile, we have strengthen our proof for Lemma.1. Please refer to Appendix A.1 in supplementary material.
 
-Despite the mistake in proof, our theoretical guarantee of sublinear regret for OHGD remains valid. 
 
 
